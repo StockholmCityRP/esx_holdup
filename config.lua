@@ -7,13 +7,13 @@ Config.TimerBeforeNewRob = 600 -- 600 seconds translates to 10 minutes
 
 -- Change secondsRemaining if you want another timer
 Stores = {
-    --[["paleto_twentyfourseven"] = {
+     ["paleto_twentyfourseven"] = {
         position = { ['x'] = 1736.32092285156, ['y'] = 6419.4970703125, ['z'] = 35.037223815918 },
         reward = math.random(100,1000),
         nameofstore = "24/7. (Paleto Bay)",
         secondsRemaining = 420, -- seconds = 7 minutes
         lastrobbed = 0
-    },]]
+    },
     ["sandyshores_twentyfoursever"] = {
         position = { ['x'] = 1961.24682617188, ['y'] = 3749.46069335938, ['z'] = 32.3437461853027 },
         reward = math.random(500,2500),
