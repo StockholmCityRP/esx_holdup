@@ -1,5 +1,5 @@
 Config = {}
-Config.Locale = 'en'
+Config.Locale = 'sv'
 
 Config.PoliceNumberRequired = 2
 Config.TimerBeforeNewRob = 600 -- 600 seconds translates to 10 minutes
@@ -16,49 +16,49 @@ Stores = {
     },]]
     ["sandyshores_twentyfoursever"] = {
         position = { ['x'] = 1961.24682617188, ['y'] = 3749.46069335938, ['z'] = 32.3437461853027 },
-        reward = math.random(500,2500),
+        reward = math.random(5000,20000),
         nameofstore = "24/7. (Sandy Shores)",
         secondsRemaining = 420, -- seconds = 7 minutes
         lastrobbed = 0
     },
     ["bar_one"] = {
         position = { ['x'] = 1990.579, ['y'] = 3044.957, ['z'] = 47.215171813965 },
-        reward = math.random(500,2500),
+        reward = math.random(5000,20000),
         nameofstore = "Yellow Jack. (Sandy Shores)",
         secondsRemaining = 420, -- seconds = 7 minutes
         lastrobbed = 0
     },
     ["ocean_liquor"] = {
         position = { ['x'] = -2959.33715820313, ['y'] = 388.214172363281, ['z'] = 14.0432071685791 },
-        reward = math.random(1000,3000),
+        reward = math.random(5000,20000),
         nameofstore = "Robs Liquor. (Great Ocean Higway)",
         secondsRemaining = 420, -- seconds = 7 minutes
         lastrobbed = 0
     },
     ["sanandreas_liquor"] = {
         position = { ['x'] = -1219.85607910156, ['y'] = -916.276550292969, ['z'] = 11.3262157440186 },
-        reward = math.random(3000,8000),
+        reward = math.random(5000,20000),
         nameofstore = "Robs Liquor. (San andreas Avenue)",
         secondsRemaining = 420, -- seconds = 7 minutes
         lastrobbed = 0
     },
     ["grove_ltd"] = {
         position = { ['x'] = -43.4035377502441, ['y'] = -1749.20922851563, ['z'] = 29.421012878418 },
-        reward = math.random(3000,8000),
+        reward = math.random(5000,20000),
         nameofstore = "LTD Gasoline. (Grove Street)",
         secondsRemaining = 420, -- seconds = 7 minutes
         lastrobbed = 0
     },
     ["mirror_ltd"] = {
         position = { ['x'] = 1160.67578125, ['y'] = -314.400451660156, ['z'] = 69.2050552368164 },
-        reward = math.random(3000,8000),
+        reward = math.random(5000,20000),
         nameofstore = "LTD Gasoline. (Mirror Park Boulevard)",
         secondsRemaining = 420, -- seconds = 7 minutes
         lastrobbed = 0
     },
     ["littleseoul_twentyfourseven"] = {
         position = { ['x'] = -709.17022705078, ['y'] = -904.21722412109, ['z'] = 19.215591430664 },
-        reward = math.random(3000,8000),
+        reward = math.random(5000,20000),
         nameofstore = "24/7. (Little Seoul)",
         secondsRemaining = 420, -- seconds = 7 minutes
         lastrobbed = 0
