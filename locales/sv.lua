@@ -1,5 +1,4 @@
 Locales['sv'] = {
-
 	['robbery_cancelled'] = 'rånet kommer att avbrytas, du får ingenting!',
 	['robbery_successful'] = 'du lyckades råna och har nu fått ~g~$',
 	['shop_robbery'] = 'Råna Affär',
@@ -17,7 +16,7 @@ Locales['sv'] = {
 	['hold_pos'] = 'stanna i 5 minuter och pengarna är din!',
 	['robbery_complete'] = '~r~ Rånet avklarat.~s~ ~h~ Spring!',
 	['robbery_complete_at'] = '~r~ Rånet har blivit avslutat och dom har fått pengar: ~b~',
-	['min_two_police'] = 'det måste vara minst~b~2 poliser~s~ för att råna.',
+	['min_police'] = 'det måste vara minst ~b~',
+	['in_city'] = '~s~ poliser inne för att du ska kunna råna butiker.',
 	['robbery_already'] = '~r~Ett rån pågår redan.',
-
 }
